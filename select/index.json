@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "薔薇色の月",
+  "base_artist": "ファントムシータ",
+  "createdAt": "2026-02-24T11:01:26.630676Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "薔薇色の月",
+      "artist": "ファントムシータ",
+      "has_synced": false,
+      "path": "select/pl_01_薔薇色の月_ファントムシータ.txt"
+    }
+  ]
+}
